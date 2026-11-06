@@ -1,0 +1,92 @@
+[
+  {
+    "id": "lagos_street",
+    "name": "Rue animée de Lagos",
+    "location": "Lagos Island",
+    "country": "Nigeria",
+    "description": "Rues bondées de Lagos avec taxis jaunes, vendeurs ambulants, architecture mixte coloniale et moderne, ambiance vibrante ouest-africaine.",
+    "visual_keywords": "lagos street, yellow danfo buses, crowded market, african city, vibrant colors, street vendors, neon signs at night, tropical humidity",
+    "cultural_notes": "Utiliser des couleurs vives, musique afrobeat en fond possible, interactions chaleureuses."
+  },
+  {
+    "id": "dakar_corniche",
+    "name": "Corniche de Dakar",
+    "location": "Dakar",
+    "country": "Sénégal",
+    "description": "Vue sur l'océan Atlantique depuis la corniche, monuments, pêcheurs, skyline moderne de Dakar, lumière dorée du coucher de soleil.",
+    "visual_keywords": "dakar corniche, atlantic ocean, african sunset, modern skyline, fishermen boats, warm golden light, senegal landscape",
+    "cultural_notes": "Ambiance sereine et élégante, références à la teranga (hospitalité)."
+  },
+  {
+    "id": "abidjan_plateau",
+    "name": "Plateau d'Abidjan",
+    "location": "Abidjan",
+    "country": "Côte d'Ivoire",
+    "description": "Quartier des affaires d'Abidjan avec gratte-ciel, ponts, lagune Ébrié, contrastes riches/pauvres, énergie urbaine ivoirienne.",
+    "visual_keywords": "abidjan plateau, lagoon, skyscrapers, modern african city, ivorian architecture, busy traffic, tropical urban",
+    "cultural_notes": "Style dynamique, mode ivoirienne, nouchi dans les dialogues possibles."
+  },
+  {
+    "id": "accra_makola",
+    "name": "Marché Makola à Accra",
+    "location": "Accra",
+    "country": "Ghana",
+    "description": "Grand marché coloré de Makola, tissus kente et wax, épices, vendeuses en pagne, chaos joyeux et authenticité ghanéenne.",
+    "visual_keywords": "makola market, kente cloth, wax print, ghanaian market, colorful fabrics, street food, african traders, vibrant chaos",
+    "cultural_notes": "Mettre en avant les textiles et l'artisanat local."
+  },
+  {
+    "id": "kinshasa_boulevard",
+    "name": "Boulevard du 30 Juin - Kinshasa",
+    "location": "Kinshasa",
+    "country": "RDC",
+    "description": "Grande artère de Kinshasa, vie nocturne intense, musique congolaise, architecture post-coloniale, énergie de la capitale.",
+    "visual_keywords": "kinshasa boulevard, congo nightlife, african megacity, lively streets, music vibes, tropical night, dense urban",
+    "cultural_notes": "Ambiance festive, rumba et ndombolo en référence."
+  },
+  {
+    "id": "nairobi_cbd",
+    "name": "Centre-ville de Nairobi",
+    "location": "Nairobi",
+    "country": "Kenya",
+    "description": "Skyline de Nairobi, parcs urbains, mix moderne et traditionnel, présence de la savane aux portes de la ville.",
+    "visual_keywords": "nairobi city, kenyan capital, modern skyline, green parks, african urban, jomo kenyatta, tropical highland",
+    "cultural_notes": "Contraste ville/nature, fierté kenyane."
+  },
+  {
+    "id": "bamako_niger",
+    "name": "Bords du fleuve Niger à Bamako",
+    "location": "Bamako",
+    "country": "Mali",
+    "description": "Fleuve Niger, pirogues, collines de Bamako, architecture en banco, lumière ocre sahélienne, ambiance ouest-africaine profonde.",
+    "visual_keywords": "bamako niger river, sahel landscape, mud architecture, pirogues, ochre tones, malian city, dusty golden light",
+    "cultural_notes": "Couleurs terre, référence à la culture mandingue."
+  },
+  {
+    "id": "lome_beach",
+    "name": "Plage de Lomé",
+    "location": "Lomé",
+    "country": "Togo",
+    "description": "Côte atlantique togolaise, plages de sable, pêcheurs, palmier, ambiance détendue et colorée d'Afrique de l'Ouest.",
+    "visual_keywords": "lome beach, togo coast, atlantic shore, palm trees, fishermen, sandy beach, west african seaside, relaxed vibe",
+    "cultural_notes": "Ambiance légère, couleurs pastel et turquoise."
+  },
+  {
+    "id": "ouagadougou_grand_marche",
+    "name": "Grand Marché de Ouagadougou",
+    "location": "Ouagadougou",
+    "country": "Burkina Faso",
+    "description": "Marché animé de Ouaga, artisanat bronze et cuir, poussière rouge, soleil intense, authenticité burkinabè.",
+    "visual_keywords": "ouagadougou market, burkina faso, red dust, bronze crafts, intense sun, sahel market, traditional crafts",
+    "cultural_notes": "Fierté locale, simplicité et force."
+  },
+  {
+    "id": "casablanca_medina",
+    "name": "Médina de Casablanca",
+    "location": "Casablanca",
+    "country": "Maroc",
+    "description": "Rues de la médina, architecture arabo-andalouse, souks, mélange traditionnel et moderne, atmosphère nord-africaine.",
+    "visual_keywords": "casablanca medina, morocco, arab architecture, souk, north african, traditional alleys, warm stone, bustling market",
+    "cultural_notes": "Ambiance maghrébine, zellige et motifs géométriques."
+  }
+]

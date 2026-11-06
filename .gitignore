@@ -1,0 +1,19 @@
+# Environnement virtuel Python
+venv/
+env/
+.venv/
+
+# Fichiers de secrets (TRÈS IMPORTANT)
+.env
+.env.local
+.env.production
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs et divers
+*.log
+.DS_Store
